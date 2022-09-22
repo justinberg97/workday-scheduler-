@@ -21,7 +21,11 @@ timeBlocks.forEach(timeBlock => {
 }) 
 }
 function saveNote() {
-
+var siblings = $(this).siblings()
+var text = siblings[1].value
+var timeBlockId = siblings[1].getAttribute("id")
+console.log(timeBlockId,text)
+localStorage.setItem(timeBlockId, text);
 }
 $(".saveBtn").click(saveNote);
 
