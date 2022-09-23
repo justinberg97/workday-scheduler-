@@ -20,7 +20,8 @@ THEN the saved events persist
 
 # Functional Links 
 https://github.com/justinberg97/workday-scheduler-
-
+https://justinberg97.github.io/workday-scheduler-/
 # Application Screenshot 
 
+<img width="1440" alt="Screen Shot 2022-09-22 at 10 35 27 PM" src="https://user-images.githubusercontent.com/110484382/191887645-f3f9f10f-1e5f-4404-aae5-801779ae5f09.png">
 
